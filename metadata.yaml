@@ -1,0 +1,28 @@
+_repo: The-Industrial-Canal-and-Inner-Harbor-of-New-Orleans--13-History-Description-and-Economic-Asp__31383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dabney, Thomas Ewing
+    gutenberg_agent_id: '35193'
+    url: http://www.gutenberg.org/2009/agents/35193
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31383'
+  lccn: '21027180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans (La.) -- Harbor'
+- !lcc 'TC'
+- !lcsh 'Canals -- Louisiana'
+title: "The Industrial Canal and Inner Harbor of New Orleans\r\nHistory, Description\
+  \ and Economic Aspects of Giant Facility Created to Encourage Industrial Expansion\
+  \ and Develop Commerce"
+url: http://www.gutenberg.org/ebooks/31383
